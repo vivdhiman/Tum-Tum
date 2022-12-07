@@ -1,0 +1,49 @@
+.top-bun {
+    background-color: #EE851C;
+    border: 2px black;
+    height: 60px;
+    width: 400px;
+    border-radius: 150px 150px 0px 0px;
+    margin-bottom: 5px;
+}
+
+.bottom-bun {
+    background-color: #EE851C;
+    border: 2px black;
+    height: 60px;
+    width: 400px;
+    border-radius: 0px 0px 150px 150px;
+    margin-top: 5px;
+}
+
+.patty {
+    background-color: #bf3813;
+    border: 2px black;
+    height: 10px;
+    width: 400px;
+    border-radius: 20px 20px 20px 20px;
+}
+
+.chesse {
+    background-color: #ffd867;
+    border: 2px black;
+    height: 10px;
+    width: 400px;
+    border-radius: 20px 20px 20px 20px;
+}
+
+.bacon {
+    background-color: #7f3608;
+    border: 2px black;
+    height: 10px;
+    width: 400px;
+    border-radius: 20px 20px 20px 20px;
+}
+
+.salad{
+    background-color: green;
+    border: 2px black;
+    height: 10px;
+    width: 400px;
+    border-radius: 20px 20px 20px 20px;
+}
